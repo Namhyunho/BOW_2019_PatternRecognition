@@ -2,7 +2,7 @@
 
 
 ---
-[이론적인 내용과 코드를 참고한 싸이트](https://github.com/TrungTVo/spatial-pyramid-matching-scene-recognition)
+#### [이론적인 내용과 코드를 참고한 싸이트](https://github.com/TrungTVo/spatial-pyramid-matching-scene-recognition)
 ---
 
 ### leve_0에 PCA와 LDA를 적용ㅅ하여 성응 계선을 시도함.
