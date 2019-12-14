@@ -7,7 +7,7 @@
 #### [이론적인 내용과 코드 참고](https://github.com/TrungTVo/spatial-pyramid-matching-scene-recognition)
 ---
 
-### leve_0에 PCA와 LDA를 적용하여 성능 계선시도.
+### leve_0에 PCA와 LDA를 적용하여 성능 갸선시도.
 
 leve_0의 성능 43.8%
 
